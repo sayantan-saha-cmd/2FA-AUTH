@@ -160,8 +160,8 @@ def main():
 
 |----------------------------------------------------------------------------|
 | Created By: Sayantan Saha                                                  |
-| Checkout my LinkedIn: https: https://www.linkedin.com/in/sayantan-saha-cmd/|
-| Lookup at my GitHub Account : https://github.com/MasterSayantan            |
+| Checkout my LinkedIn: https: https://www.linkedin.com/in/MasterSayantan    |
+| Lookup at my GitHub Account : https://github.com/sayantan-saha-cmd         |
 |----------------------------------------------------------------------------|
     """
     # Print logo in white color using ANSI escape codes
