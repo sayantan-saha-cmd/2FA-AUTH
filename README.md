@@ -36,7 +36,8 @@ These flags are mutually exclusive; you can only use one at a time.
 2. Install the required Python packages using pip:
 
    ```bash
-   
+   git clone https://github.com/sayantan-saha-cmd/2FA-AUTH.git
+   cd 2FA-AUTH
    pip install -r requirements.txt
    ```
 
@@ -88,5 +89,5 @@ This project is provided as-is without warranty. Use at your own risk.
 ---
 
 Created by Sayantan Saha  
-LinkedIn: https://www.linkedin.com/in/sayantan-saha-cmd/  
-GitHub: https://github.com/MasterSayantan
+LinkedIn: https://www.linkedin.com/in/MasterSayantan/ 
+GitHub: https://github.coms/sayantan-saha-cmd/ 
