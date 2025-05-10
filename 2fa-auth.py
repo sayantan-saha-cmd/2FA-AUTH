@@ -152,17 +152,17 @@ def main():
 
     # Display welcome banner and status BEFORE passphrase prompt
     logo = r"""
- ____  _____ _           _         _   _     
-|___ \|  ___/ \         / \  _   _| |_| |__  
-  __) | |_ / _ \ _____ / _ \| | | | __| '_ \ 
- / __/|  _/ ___ \_____/ ___ \ |_| | |_| | | |
-|_____|_|/_/   \_\   /_/   \_\__,_|\__|_| |_|
+           ____  _____ _           _         _   _     
+          |___ \|  ___/ \         / \  _   _| |_| |__  
+            __) | |_ / _ \ _____ / _ \| | | | __| '_ \ 
+           / __/|  _/ ___ \_____/ ___ \ |_| | |_| | | |
+          |_____|_|/_/   \_\   /_/   \_\__,_|\__|_| |_|
 
-|----------------------------------------------------------------------------|
-| Created By: Sayantan Saha                                                  |
-| Checkout my LinkedIn: https: https://www.linkedin.com/in/MasterSayantan    |
-| Lookup at my GitHub Account : https://github.com/sayantan-saha-cmd         |
-|----------------------------------------------------------------------------|
+❖━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━❖
+✦  Created By       : Sayantan Saha                               ✦
+✦  LinkedIn Profile : https://www.linkedin.com/in/mastersayantan/ ✦
+✦  GitHub Profile   : https://github.com/MasterSayantan           ✦
+❖━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━❖
     """
     # Print logo in white color using ANSI escape codes
     print("\033[97m" + logo + "\033[0m")
